@@ -77,7 +77,7 @@ My journey into tech began through UI/UX design and evolved into software engine
 
 ### 💰 Finora — Financial Coach
 
-A financial coaching web app that helps users improve money habits through personalized guidance, goal setting, and financial education.
+AI-powered financial coach for Kenyans — built with React, TypeScript & Supabase.
 
 
 ### 🌐 Kavaro Agency Website
