@@ -110,7 +110,7 @@ A healthcare platform concept designed to help users discover healthcare provide
 
 ## 📫 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/carolinenjogu](http://www.linkedin.com/in/carolinenjogu)
+* LinkedIn: [www.linkedin.com/in/carolinenjogu](www.linkedin.com/in/carolinenjogu)
 * GitHub: github.com/caroline568
 
 ---
