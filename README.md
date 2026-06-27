@@ -2,9 +2,13 @@
 
 ### Software Engineering Student | UI/UX Designer | Full-Stack Developer in Training | Founder @ Kavaro Agency
 
-I'm a Software Engineering student at Moringa School. I build fintech and health products for everyday Kenyans — currently shipping Finora, a financial coaching app for the M-Pesa generation.
+I build digital products for everyday Kenyans — currently shipping **Finora**, 
+an AI-powered financial coaching app for the M-Pesa generation, and running 
+**Kavaro Agency**, a creative dev studio based in Nairobi.
 
-My journey into tech began through UI/UX design and evolved into software engineering, where I'm learning both frontend and backend development while building projects and documenting my growth in public.
+My background is in UI/UX design, which means I care as much about how 
+something *feels* as how it works. I'm deepening my engineering skills at 
+Moringa School while building real products in public
 
 ---
 ## 📍 Currently Building
