@@ -47,7 +47,7 @@ Moringa School while building real products in public
 * APIs
 * Databases
 * Flask
-* Routing & Views
+
 
 ### Design
 
@@ -63,7 +63,9 @@ Moringa School while building real products in public
 * VS Code
 * Linux (Ubuntu)
 * Postman
-* Figma
+* Vercel
+* 
+
 
 ---
 
