@@ -118,6 +118,7 @@ A healthcare platform concept designed to help users discover healthcare provide
 
 * LinkedIn: [www.linkedin.com/in/carolinenjogu](www.linkedin.com/in/carolinenjogu)
 * GitHub: github.com/caroline568
+* Instagram:https://accountscenter.instagram.com/profiles/17841448836417267/
 
 ---
 
